@@ -87,13 +87,20 @@ body {
 	width: 100%;
 }
 #content {
-	margin: 0 34% 0 7.6%;
-	width: 58.4%;
+	margin: 0 34% 0 3.3%;
+	width: 66.7%;
 }
 #secondary {
 	float: right;
 	margin-right: 7.6%;
 	width: 18.8%;
+}
+
+/* Article */
+
+article {
+	background: #ff0000;
+
 }
 
 /* Singular */
@@ -703,7 +710,7 @@ a:hover {
 .no-results {
 	border-bottom: 1px solid #ddd;
 	margin: 0 0 1.625em;
-	padding: 0 0 1.625em;
+	padding: 0.5em 1.625em 1em;
 	position: relative;
 }
 .hentry:last-child,
