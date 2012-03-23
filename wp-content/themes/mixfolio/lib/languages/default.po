@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mixfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-09 21:54-0500\n"
+"PO-Revision-Date: 2011-11-09 21:56-0500\n"
+"Last-Translator: Thad Allender <thadallender@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio\n"
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/archive-work.php:49
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/archive.php:46
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/category.php:36
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/author.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/comments.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/comments.php:62
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/comments.php:43
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-aside.php:29
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-gallery.php:34
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-image.php:34
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:38
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-video.php:38
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:38
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-aside.php:30
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-gallery.php:35
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-image.php:35
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-page.php:28
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:58
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-video.php:39
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:58
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:44
+msgid "Pages:"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-aside.php:40
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-gallery.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-image.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:90
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-video.php:46
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:90
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:76
+msgid "Leave a comment"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-aside.php:40
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-gallery.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-image.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:90
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-video.php:46
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:90
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:76
+msgid "1 Comment"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-aside.php:40
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-gallery.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-image.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:90
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-video.php:46
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:90
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:76
+msgid "% Comments"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-aside.php:42
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-gallery.php:44
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-image.php:44
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-page.php:29
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:94
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-video.php:48
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:94
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:80
+msgid "Edit"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:68
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:79
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:68
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:79
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:54
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:65
+msgid ", "
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:72
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:72
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:58
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content-single.php:83
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/content.php:83
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/format-gallery.php:69
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/footer.php:21
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/footer.php:21
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/footer.php:23
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/footer.php:27
+#, php-format
+msgid "All content &copy; %1$s by %2$s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/functions.php:134
+msgid "Primary Menu"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/header.php:46
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/image.php:25
+#, php-format
+msgid "Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/image.php:39
+msgid "&larr; Previous"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/image.php:40
+msgid "Next &rarr;"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/image.php:97
+#, php-format
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/image.php:99
+#, php-format
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/comments.php:25
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/comments.php:36
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/comments.php:38
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/comments.php:56
+msgid "(Edit)"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/menus.php:20
+msgid "Search for:"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/meta.php:18
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/posts.php:18
+#, php-format
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:124
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:125
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:126
+#, php-format
+msgid "The %1$s plugin is required for this theme. Click on the big blue button below to install and activate %1$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:127
+#, php-format
+msgid "The %1$s plugin is recommended for this theme. Click on the big blue button below to install and activate %1$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:128
+#, php-format
+msgid "The %1$s plugin is installed but currently inactive. Please go to the <a href=\"%2$s\">plugin administration page</a> page to activate it."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:129
+#, php-format
+msgid "Install %s Now"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:130
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:131
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:132
+#, php-format
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:133
+#, php-format
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:134
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:135
+#, php-format
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:136
+#, php-format
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:137
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:138
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:438
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:448
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:139
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:578
+msgid "Begin installing plugins"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:579
+msgid "Activate installed plugins"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/plugins.php:580
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/postnav.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/postnav.php:39
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/readme.php:14
+msgid " Instructions"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/widgets.php:12
+msgid "Sidebar 1"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/widgets.php:21
+msgid "Sidebar 2"
+msgstr ""
+
+#: /Users/thadallender/Sites/localhost/trunk/wp-content/themes/mixfolio/lib/functions/widgets.php:23
+msgid "An optional second sidebar area"
+msgstr ""
+

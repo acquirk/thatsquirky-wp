@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michael Web <michaelweb@ufothemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: format-gallery.php:76
+#: content-video.php:46
+#: content-image.php:42
+#: content.php:90
+#: content-aside.php:40
+#: content-gallery.php:42
+#: content-single.php:90
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: comments.php:62
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: image.php:39
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:63
+#: content.php:77
+#: content-single.php:77
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:76
+#: content-video.php:46
+#: content-image.php:42
+#: content.php:90
+#: content-aside.php:40
+#: content-gallery.php:42
+#: content-single.php:90
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: image.php:97
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#. Text in echo
+#: archive-work.php:30
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: footer.php:23
+msgid "All content &copy; %1$s by %2$s"
+msgstr ""
+
+#. Text in echo
+#: archive.php:24
+#: sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: author.php:28
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: image.php:103
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#. Text in function
+#: category.php:18
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+#: image.php:99
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#. Text in echo
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: part-hero.php:30
+#: footer.php:36
+msgid "Contact Me"
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:34
+#: content-video.php:38
+#: content-image.php:34
+#: content.php:38
+#: content-aside.php:29
+#: content-gallery.php:34
+#: content-single.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: archive.php:24
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: content-page.php:29
+#: image.php:35
+#: image.php:105
+#: format-gallery.php:80
+#: content-video.php:48
+#: content-image.php:44
+#: content.php:94
+#: content-aside.php:42
+#: content-gallery.php:44
+#: content-single.php:94
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: part-hero.php:26
+msgid "Follow Me"
+msgstr ""
+
+#. Text in echo
+#: part-hero.php:26
+msgid "Follow me on Twitter"
+msgstr ""
+
+#. Text in echo
+#: content-video.php:25
+msgid "Info"
+msgstr ""
+
+#. Text in echo
+#: category.php:66
+#: archive.php:76
+#: index.php:48
+#: author.php:64
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#. Text in echo
+#: archive-work.php:75
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Use the search box above to help."
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:76
+#: content-video.php:46
+#: content-image.php:42
+#: content.php:90
+#: content-aside.php:40
+#: content-gallery.php:42
+#: content-single.php:90
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#. Text in echo
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#. Text in function
+#: comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: image.php:40
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in echo
+#: search.php:36
+#: category.php:62
+#: archive.php:72
+#: index.php:44
+#: archive-work.php:71
+#: author.php:60
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: header.php:28
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: content-page.php:28
+#: image.php:89
+#: format-gallery.php:44
+#: content-video.php:39
+#: content-image.php:35
+#: content.php:58
+#: content-aside.php:30
+#: content-gallery.php:35
+#: content-single.php:58
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:16
+#: content-video.php:16
+#: content-image.php:16
+#: content.php:12
+#: content-aside.php:16
+#: content-gallery.php:16
+#: content-single.php:12
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in function
+#: category.php:36
+#: archive.php:46
+#: home.php:47
+#: archive-work.php:49
+msgid "Permanent Link to %s"
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:58
+#: content.php:72
+#: content-single.php:72
+msgid "Posted in %1$s"
+msgstr ""
+
+#. Text in function
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#. Text in echo
+#: archive-work.php:29
+msgid "Recent Work"
+msgstr ""
+
+#. Text in function
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: search.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: format-gallery.php:69
+#: content.php:83
+#: content-single.php:83
+msgid "Tagged %1$s"
+msgstr ""
+
+#. Text in echo
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: image.php:101
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#. Text in function
+#: 404.php:34
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. Text in echo
+#: 404.php:17
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#. Text in echo
+#: footer.php:21
+msgid "WordPress Themes"
+msgstr ""
+

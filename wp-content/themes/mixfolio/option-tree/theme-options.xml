@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<trunk_wp_23_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>General</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>1</item_sort>
+  </row>
+  <row>
+    <id>6</id>
+    <item_id>gpp_logo</item_id>
+    <item_title>Logo</item_title>
+    <item_desc>Upload a logo measuring no more than 25 pixels tall, otherwise, it will break the header design.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>2</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>gpp_css</item_id>
+    <item_title>Custom CSS</item_title>
+    <item_desc>Add some custom &amp;lt;a href=&amp;quot;http://www.w3schools.com/css/&amp;quot;&amp;gt;CSS&amp;lt;/a&amp;gt; here to alter the colors, fonts and design of your site.</item_desc>
+    <item_type>css</item_type>
+    <item_options>5</item_options>
+    <item_sort>3</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>gpp_home</item_id>
+    <item_title>Homepage</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>4</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>gpp_welcome_area</item_id>
+    <item_title>Show or Hide Homepage Welcome Area</item_title>
+    <item_desc>Check this to show a Welcome Message and Twitter areas on the homepage above your recent posts area.</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Show,Hide</item_options>
+    <item_sort>5</item_sort>
+  </row>
+  <row>
+    <id>11</id>
+    <item_id>gpp_welcome_message_title</item_id>
+    <item_title>Welcome Message Title</item_title>
+    <item_desc>A short title for your welcome message, like, &amp;lt;code&amp;gt;&amp;quot;Howdy!&amp;lt;/code&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>6</item_sort>
+  </row>
+  <row>
+    <id>9</id>
+    <item_id>gpp_welcome_message</item_id>
+    <item_title>Welcome Message</item_title>
+    <item_desc>Enter a message that you want to show on the homepage.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>3</item_options>
+    <item_sort>7</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>gpp_twitter_id</item_id>
+    <item_title>Twitter ID</item_title>
+    <item_desc>Enter your Twitter ID.  Example: &amp;lt;code&amp;gt;thadallender&amp;lt;/code&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>8</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>gpp_contact</item_id>
+    <item_title>Show or Hide Contact Info</item_title>
+    <item_desc>Check Show if you want to display your contact info.</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Show,Hide</item_options>
+    <item_sort>9</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>gpp_contact_details</item_id>
+    <item_title>Contact - Details</item_title>
+    <item_desc>Include your address and phone number here. HTML is allowed and required to format your details.  Use &amp;lt;code&amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;/code&amp;gt; to create a line break.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>5</item_options>
+    <item_sort>10</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>gpp_contact_email</item_id>
+    <item_title>Contact - Email</item_title>
+    <item_desc>Include a valid email address here.  It will be shown on your website.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>11</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>gpp_home_categories</item_id>
+    <item_title>Categories</item_title>
+    <item_desc>Select the Post categories that you want to show on the homepage.</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>12</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>gpp_home_post_number</item_id>
+    <item_title>Number of Posts</item_title>
+    <item_desc>How many Posts do you want to show on the homepage?</item_desc>
+    <item_type>select</item_type>
+    <item_options>3,6,9,12,15</item_options>
+    <item_sort>13</item_sort>
+  </row>
+</trunk_wp_23_option_tree>

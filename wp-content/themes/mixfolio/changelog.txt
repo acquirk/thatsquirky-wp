@@ -1,0 +1,21 @@
+== Changelog ==
+
+= Version 1.0.5 (January 4, 2012) =
+	* Corrected primary navivagation when viewed in portrait mode.
+
+= Version 1.0.4 (December 15, 2011) =
+	* Added Localization 
+
+= Version 1.0.3 (Dec 5, 2011) =
+	* Post format plugin updated
+	* Image overly float fix
+	* CSS conflicts with gap shortcodes fix
+	* IE 7 & 8 shuffle fix
+	* Usability fix for shuffle anchors using javascript:void(0); instead of #
+
+= Version 1.0.1 (Nov 4, 2011) =
+	* Videos are now responsive
+	* Logo bugfix
+	
+= Version 1.0 (Nov 3, 2011) =
+	* Initial release

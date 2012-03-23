@@ -1,0 +1,48 @@
+/* Light */
+
+@import url("../../../base/library/css/default.css");
+
+/* GLOBALS */
+body, .page-title { background: url(../../images/bg/paper.jpg) repeat top center; }
+#page, #topaccess ul ul, #leftaccess ul ul, #rightaccess ul ul { border: 1px solid #ccc; background-color: #fff; -webkit-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .1); -moz-box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .1); box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .1); }
+
+/* FONTS */
+a {color:#2d2d2d;}
+
+/* TITLES */
+.page-title { border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; }
+.entry-title, #homewidget h3 { background-image:url(../../images/lines.png); background-repeat: repeat-x; }
+.entry-title { background-position: 0 70% }
+#homewidget h3 { background-position: 0 50% }
+
+.entry-title span, .sub span, #homewidget h3 span { background: #fff; }
+.search .entry-title { background: transparent }
+
+/* MENU */
+div.menu ul li a,div.menu ul li li:first-child a,div.menu ul li li:last-child a { color: #ec6d4d; }
+#topaccess ul li a, #leftaccess ul li a, #rightaccess ul li a { color:#93968D; }
+#topaccess ul li a:hover, #topaccess ul li.current-menu-item a, #topaccess ul li:hover > ul a:hover, #topaccess ul li:hover > ul a:hover, #leftaccess a:hover, #rightaccess a:hover, #leftaccess ul li:hover,  #rightaccess ul li:hover { color: #222; }
+#topaccess ul ul li a:hover, #leftaccess ul ul li:hover,  #rightaccess ul ul li:hover { background-color: #ededed }
+#topaccess ul ul a { background: #fff }
+
+
+/* FOOTER */
+#footer-wrap { background:url(../../images/bg/tar.jpg) repeat top center; border-top: 1px solid #CCCCCC; }
+#footer-widgets { text-shadow:1px 1px 1px #000000; }
+#footer-widgets h3.widget-title { color:#f9f9f9; }
+#footer-widgets, #footer-widgets a { color:#cccccc; }
+#footer-widgets a:hover { color:#ffffff; }
+#below_footer { border-top: 1px solid #3d3d3d; color:#4d4d4d; }
+#below_footer a { color:#4d4d4d; }
+
+/*  COMMENTS  */
+#commentform #submit { background: none repeat scroll 0 0 #3D3D3D;color: #F9F9F9; }
+#commentform #submit:hover {background:#4d4d4d;}
+h3#comments-title {border-bottom: 1px solid #DDDDDD;color: #3D3D3D; }
+ol.commentlist li div.reply a  { background: none repeat scroll 0 0 #2D2D2D;color: #F9F9F9; }
+ol.commentlist li div.reply a:hover {background: #3D3D3D;color:#ffffff;}
+
+/* MISC */
+#s {border: 1px solid #A1A1A1;}
+.nav-next a, .nav-previous a { color: #4d4d4d; }
+.nav-next a:hover, .nav-previous a:hover {color:#6f6f6f;}
